@@ -1,0 +1,3 @@
+[submodule "SubProject2"]
+	path = SubProject2
+	url = https://github.com/BindushreeR/SubProject2.git
