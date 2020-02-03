@@ -1,0 +1,35 @@
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.exe
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.deps.json
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.runtimeconfig.json
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.runtimeconfig.dev.json
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.dll
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.pdb
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.Views.dll
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\bin\Debug\netcoreapp3.1\Asp.net core project.Views.pdb
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.csprojAssemblyReference.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.net core project.StaticWebAssets.Manifest.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.net core project.StaticWebAssets.xml
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.RazorAssemblyInfo.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.RazorAssemblyInfo.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.AssemblyInfoInputs.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.AssemblyInfo.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.TagHelpers.input.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.TagHelpers.output.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.RazorCoreGenerate.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.RazorTargetAssemblyInfo.cache
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.RazorTargetAssemblyInfo.cs
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.Views.pdb
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.dll
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.pdb
+C:\Users\Bindushree\source\repos\Asp.net core project\Asp.net core project\obj\Debug\netcoreapp3.1\Asp.net core project.csproj.CopyComplete
